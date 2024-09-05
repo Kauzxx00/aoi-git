@@ -1,0 +1,21 @@
+{
+  "name": "aoigit",
+  "version": "1.0.0",
+  "description": "aoi.git - Ferramenta para integrar o Git com o Aoi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauzxx00/aoi-git.git"
+  },
+  "keywords": ["git", "aoi.js", "automation", "repository"],
+  "author": "Kauzx00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kauzxx00/aoi-git/issues"
+  },
+  "homepage": "https://github.com/Kauzxx00/aoi-git#readme"
+}
+
