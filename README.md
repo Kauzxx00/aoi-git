@@ -26,7 +26,7 @@ const client = new AoiClient({
 });
 
 //aoi.git setup
-const { AoiGit } = require("aoi.git");
+const { AoiGit } = require("aoigit");
 const aoigit = new AoiGit({
   client: client, // or bot as per your config
 });
